@@ -96,6 +96,7 @@
   * [Caesar Cipher](ciphers/caesar_cipher.py)
   * [Cryptomath Module](ciphers/cryptomath_module.py)
   * [Decrypt Caesar With Chi Squared](ciphers/decrypt_caesar_with_chi_squared.py)
+  * [Demo Cipher](ciphers/demo_cipher.py)
   * [Deterministic Miller Rabin](ciphers/deterministic_miller_rabin.py)
   * [Diffie](ciphers/diffie.py)
   * [Diffie Hellman](ciphers/diffie_hellman.py)
